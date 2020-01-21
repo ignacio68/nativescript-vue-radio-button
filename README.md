@@ -30,10 +30,12 @@ Describe any usage specifics for your plugin. Give examples for Android, iOS, An
 
 Describe your plugin methods and properties here. See [nativescript-feedback](https://github.com/EddyVerbruggen/nativescript-feedback) for example.
     
-| Property | Default | Description |
-| --- | --- | --- |
-| some property | property default value | property description, default values, etc.. |
-| another property | property default value | property description, default values, etc.. |
+| Property | Type | Default | Description |
+| --- | --- | --- | --- |
+| radioColor | string | --primary | radio buton color |
+| textColor | string | --primary | label color |
+| radioSize | number | 24 | radio button size |
+
     
 ## License
 
