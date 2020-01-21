@@ -1,7 +1,8 @@
 {
 	"name": "nativescript-vue-radio-button",
 	"version": "1.0.0",
-	"description": "Your awesome NativeScript plugin.",
+	"private": false,
+	"description": "A radio button component to Nativescript-Vue",
 	"main": "vue-radio-button",
 	"typings": "index.d.ts",
 	"nativescript": {
@@ -29,13 +30,19 @@
 	},
 	"keywords": [
 		"NativeScript",
+		"Vue",
+		"Nativescript-Vue",
 		"JavaScript",
 		"Android",
-		"iOS"
+		"iOS",
+		"Radio Button",
+		"Radio",
+		"Button"		
 	],
 	"author": {
-		"name": "Your Name",
-		"email": "youremail@yourdomain.com"
+		"name": "Ignacio López-Amor",
+		"email": "ignaciolopezamor@gmail.com",
+		"url": "http://www.lopezamor.com"
 	},
 	"bugs": {
 		"url": "https://github.com/ignacio68/nativescript-vue-radio-button/issues"
