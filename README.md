@@ -32,10 +32,17 @@ Describe your plugin methods and properties here. See [nativescript-feedback](ht
     
 | Property | Type | Default | Description |
 | --- | --- | --- | --- |
-| radioColor | string | --primary | radio buton color |
-| textColor | string | --primary | label color |
-| radioSize | number | 24 | radio button size |
+| enabled | boolean | false | choose if the component is enabled or not |
+| orientation | string | horizontal | the component's orientation, 'horizontal' or 'vertical |
+| text | string | null | label text |
+| radioColor | string | --primary | the radio button's color |
+| activateColor | string | --accent | the radio button selected's color, excluded label text |
+| disabledColor | string | #a4a4a4 | the radio button disabled's color, included label text |
+| textColor | string | --primary | the text's color |
+| checked | boolean | false | the radio button is checked |
+| fontSize | string | 16 | the size of the text |
 
+| radioSize | number | 24 | the size of the button's circle |
     
 ## License
 
