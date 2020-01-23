@@ -14,6 +14,7 @@
 		"type": "git",
 		"url": "https://github.com/ignacio68/nativescript-vue-radio-button.git"
 	},
+	"main": "index.js",
 	"scripts": {
 		"tsc": "npm i && tsc",
 		"build": "npm run tsc && npm run build.native",

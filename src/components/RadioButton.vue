@@ -61,7 +61,7 @@
 
 <script>
 import { Color } from 'color'
-import { isColor } from './utils/helpers'
+import { isColor } from '../utils/helpers'
 const AnimationCurve = require('tns-core-modules/ui/enums').AnimationCurve
 export default {
   name: "RadioButton",
