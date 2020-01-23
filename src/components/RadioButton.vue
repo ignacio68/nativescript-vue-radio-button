@@ -204,6 +204,7 @@ export default {
         this.lastColor = this.radioColor
       }
     }
+  }
 }
 </script>
 

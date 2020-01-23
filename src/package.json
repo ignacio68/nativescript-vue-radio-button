@@ -3,8 +3,7 @@
 	"version": "1.0.0",
 	"private": false,
 	"description": "A radio button component to Nativescript-Vue",
-	"main": "vue-radio-button",
-	"typings": "index.d.ts",
+
 	"nativescript": {
 		"platforms": {
 			"android": "6.0.0",

@@ -1,5 +1,3 @@
-import { Common } from './vue-radio-button.common';
+import { RadioButton } from "./components"
 
-export class VueRadioButton extends Common {
-
-}
+export class VueRadioButton extends RadioButton {}

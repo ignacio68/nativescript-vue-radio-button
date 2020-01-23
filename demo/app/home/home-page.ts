@@ -1,5 +1,5 @@
 import { VueRadioButton } from 'nativescript-vue-radio-button';
-console.log(new VueRadioButton().message);
+console.log(new VueRadioButton());
 /*
 In NativeScript, a file with the same name as an XML file is known as
 a code-behind file. The code-behind is a great place to place your view
